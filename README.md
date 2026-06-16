@@ -25,9 +25,7 @@ I'm a **passionate Full-Stack Java Developer** with a strong foundation in build
 
 - 🎯 **Currently:** Building real-world projects with Spring Boot & React.js
 - 📚 **Learning:** Microservices, Docker, and Cloud Deployment
-- 🎬 **Content Creator:** Sharing knowledge on **YouTube**, **Medium**, and **Instagram**
 - 🤝 **Open to:** Collaborations, internships, and exciting entry-level opportunities
-- ⚡ **Fun Fact:** I debug faster with lo-fi music playing in the background 🎵
 - 🌍 **Based in:** India 🇮🇳
 
 ---
@@ -70,24 +68,12 @@ I'm a **passionate Full-Stack Java Developer** with a strong foundation in build
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundella-saicharan-484399402)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kundellasaicharan)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kundellasaicharan)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kundellasaicharan)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundellasaicharan)
 
 </div>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=kundellasaicharan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundellasaicharan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-
-</div>
 
 <div align="center">
 
@@ -97,12 +83,8 @@ I'm a **passionate Full-Stack Java Developer** with a strong foundation in build
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=kundellasaicharan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
