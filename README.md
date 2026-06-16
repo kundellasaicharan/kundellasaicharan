@@ -73,14 +73,6 @@ I'm a **passionate Full-Stack Java Developer** with a strong foundation in build
 </div>
 
 ---
-
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundellasaicharan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 
