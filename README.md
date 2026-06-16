@@ -1,8 +1,11 @@
+
 <!-- SECTION G: VISITOR COUNTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kundellasaicharan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
 ---
+
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave" />
@@ -12,7 +15,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Spring+Boot+%7C+React.js+%7C+REST+APIs;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </div>
+
 ---
+
 <!-- SECTION B: ABOUT ME -->
 ## 🙋‍♂️ About Me
 
