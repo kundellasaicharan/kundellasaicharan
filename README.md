@@ -4,7 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=kundellasaicharan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
----
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
