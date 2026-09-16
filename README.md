@@ -1,102 +1,214 @@
+<!-- Profile Header -->
 
-<!-- SECTION G: VISITOR COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kundellasaicharan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kundellasaicharan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Animated header" />
+</p>
 
-<!-- SECTION A: ANIMATED HEADER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Wave" />
-  <h1>Hey there, I'm Kundella Saicharan!</h1>
+<h1 align="center">Hi 👋, I'm Kundella Saicharan</h1>
 
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Java+Developer+%F0%9F%9A%80;Building+Scalable+Web+Applications;Spring+Boot+%7C+React.js+%7C+REST+APIs;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Java+Developer+%7C+Java+Full+Stack+Developer;Software+Engineer+with+1+Year+of+Professional+Experience;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+React.js;Building+Scalable+and+Responsive+Web+Applications" alt="Typing SVG" />
   </a>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kundellasaicharan">
+    <img src="https://img.shields.io/badge/GitHub-kundellasaicharan-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kundella-saicharan-274658308">
+    <img src="https://img.shields.io/badge/LinkedIn-Kundella%20Saicharan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saicharankundella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saicharankundella%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
-I'm a **passionate Full-Stack Java Developer** with a strong foundation in building end-to-end web applications. As a fresher, I bring fresh perspectives, clean code habits, and an unstoppable drive to turn ideas into production-ready software.
+I'm **Kundella Saicharan**, a **Java Developer / Java Full Stack Developer** with **1 year of professional experience as a Software Engineer at Metrolabs Services Pvt. Ltd.**
 
-- 🎯 **Currently:** Building real-world projects with Spring Boot & React.js
-- 📚 **Learning:** Microservices, Docker, and Cloud Deployment
-- 🤝 **Open to:** Collaborations, internships, and exciting entry-level opportunities
-- 🌍 **Based in:** India 🇮🇳
+During my professional experience, I worked primarily on the **frontend of a Loan Application System**, developing responsive React.js interfaces, integrating REST APIs, building validated forms, managing application state, and collaborating with cross-functional teams.
+
+I'm now focused on building my career in **Java backend and full-stack development**, with hands-on experience in **Core Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs, MySQL, SQL and React.js**.
+
+### 🚀 What I Do
+
+- 💻 Build backend services using **Java & Spring Boot**
+- 🌐 Develop responsive frontend applications using **React.js**
+- 🔗 Design and integrate **RESTful APIs**
+- 🗄️ Work with **MySQL, SQL, JDBC, JPA & Hibernate**
+- 🔐 Implement authentication, authorization and role-based access concepts
+- 🧩 Build clean applications using **Controller → Service → Repository** architecture
+- 📚 Continuously improve my Java, Spring Boot, DSA and full-stack development skills
+- 🎥 Interested in sharing technical knowledge through **YouTube, Medium and Instagram**
 
 ---
 
-<!-- SECTION C: TECH STACK -->
+## 🧑‍💼 Professional Experience
+
+### Software Engineer — Metrolabs Services Pvt. Ltd.
+**April 2025 – March 2026 | Hyderabad, India**
+
+**Project: Loan Application System**
+
+- Developed reusable and responsive **React.js components** for application workflows.
+- Integrated **REST APIs using Axios** for communication between frontend modules and backend services.
+- Developed dynamic and validated forms to improve data accuracy and user experience.
+- Used **Redux and Context API** for centralized application state management.
+- Worked with authentication and **role-based authorization concepts**.
+- Improved responsive behavior and cross-browser compatibility.
+- Collaborated with cross-functional teams using **Agile/Scrum** practices.
+- Worked with Git-based source control and debugging/developer tools.
+
+---
+
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 💻 Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend
+### ☕ Backend & Database
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" alt="JDBC" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🔧 Tools & Development
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect & Follow
+## 📌 Featured Projects
 
-<div align="center">
+### 1. 🔐 Employee Management API
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundella-saicharan-484399402)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kundellasaicharan)
+**Java | Spring Boot | Spring Data JPA | Hibernate | MySQL | Spring Security | REST APIs**
 
-</div>
+A secure RESTful backend application for managing employee records.
 
-</div>
+- CRUD operations for employee management
+- Controller-Service-Repository architecture
+- Spring Data JPA and Hibernate integration
+- MySQL database integration
+- DTO pattern and Bean Validation
+- Global exception handling
+- Authentication and role-based authorization
+- Pagination, sorting, filtering and search APIs
+- Swagger/OpenAPI documentation
+- JUnit 5 and Mockito testing
+- SLF4J logging
+
+🔗 **Repository:**  
+https://github.com/kundellasaicharan/employee-management-api
 
 ---
 
-<!-- SECTION H: FOOTER -->
-## 🤝 Let's Connect!
+### 2. 📋 Queue Management System
 
-<div align="center">
+**React.js | JavaScript | REST APIs**
 
-  I'm always open to interesting conversations, collaborations, and opportunities. Whether you have a project idea, a question, or just want to say hi — my DMs are open!
+Responsive queue management application designed to manage queue workflows through a web interface.
 
-  <br/>
+- React.js component-based UI
+- REST API integration
+- Responsive interface
+- Application state management
+- Git/GitHub based development
 
-  [![LinkedIn](https://img.shields.io/badge/Reach_me_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundella-saicharan-484399402)
-  [![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundellasaicharan@gmail.com)
+🔗 **Repository:**  
+https://github.com/kundellasaicharan/Queue-Management-System
 
-  <br/><br/>
+---
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <br/>
-  <em><b>I love connecting with people from all over the world.</b> If you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+### 3. 🎓 Student Management System
 
-  <br/><br/>
+**Core Java | JDBC | SQLite | SQL | OOP | Collections**
 
-  ---
+Console-based student management application demonstrating Java fundamentals and database connectivity.
 
-  ⭐️ **From [Kundella Saicharan](https://github.com/kundellasaicharan)** — *Building one commit at a time* 🚀
+- Create, read, update and delete student records
+- JDBC database integration
+- SQLite database
+- PreparedStatement-based database operations
+- OOP and Collections Framework
+- Exception handling and modular design
 
-</div>
+🔗 **Repository:**  
+https://github.com/kundellasaicharan/Student-Management-System-JDBC
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kundellasaicharan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundellasaicharan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundellasaicharan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kundellasaicharan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📱 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kundella-saicharan-274658308">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saicharankundella@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kundellasaicharan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+> 🎯 **Open to opportunities:** Java Developer | Java Full Stack Developer | Software Engineer
+
+> 🚀 Building reliable backend services, responsive web applications and practical full-stack solutions.
+
+<p align="center">
+  <b>Let's connect, build, and grow together! 🤝</b>
+</p>
