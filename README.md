@@ -4,10 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=kundellasaicharan&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="100%" alt="Animated header" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Kundella Saicharan</h1>
 
 <p align="center">
@@ -167,27 +163,6 @@ Console-based student management application demonstrating Java fundamentals and
 
 🔗 **Repository:**  
 https://github.com/kundellasaicharan/Student-Management-System-JDBC
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundellasaicharan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundellasaicharan&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundellasaicharan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kundellasaicharan&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
